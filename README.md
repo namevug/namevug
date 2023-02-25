@@ -7,7 +7,7 @@ I'm Victor, Front-end Developer.
 
 <div>
   <a href="https://github.com/namevug">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namevug&layout=compact&langs_count=16&theme=nord" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namevug&layout=compact&langs_count=16&theme=nord" />
 </div>
 
   ##
