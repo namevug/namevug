@@ -3,7 +3,7 @@
 I'm Victor, Front-end Developer.
  
 - 🎯 Focused on the web universe.
-- 🌱 Studying Javascript
+- 🌱 Studying React
 
 <div>
   <a href="https://github.com/namevug">
